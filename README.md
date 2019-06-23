@@ -5,4 +5,8 @@ This is our 8th semester final year project and is intended for making a novel c
 **Team Member**: [Meghali Nandi](https://github.com/Meghali-Nandi) , [Amrit Jha](https://github.com/amritjha)  
 
 List of files  
-* Pytorch revision notebook
+* Pytorch revision notebook  
+
+#TO-DO
+* ~~Research successfully presented at institute~~
+* Update the readme to document research findings.
